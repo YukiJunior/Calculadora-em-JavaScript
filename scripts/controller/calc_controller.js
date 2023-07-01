@@ -74,7 +74,7 @@ class CalcController {
 
     addOperation(value){
 
-        console.log('a',this.getLastOperation())
+        console.log(this.getLastOperation())
 
         if(isNaN(this.getLastOperation())){
             // recebe String ou operador
