@@ -21,7 +21,7 @@
 - [x] Split;
 - [x] Switch;
 - [x] IsNaN;
-- [x] Array e Length
+- [x] Array e Length;
 
 # Para executar esse Projeto:
 
