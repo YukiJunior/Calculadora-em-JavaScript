@@ -7,15 +7,15 @@
 
 # Métodos utilzados:
 
--[x] Orientação Objeto;
--[x] Variáveis Privadas;
--[x] Construtores;
--[x] Initialize;
--[x] QuerySelector;
--[x] Eventos;
--[x] Elementos;
--[x] Laços com ForEach;
--[x] Botões;
+- [x] Orientação Objeto;
+- [x] Variáveis Privadas;
+- [x] Construtores;
+- [x] Initialize;
+- [x] QuerySelector;
+- [x] Eventos;
+- [x] Elementos;
+- [x] Laços com ForEach;
+- [x] Botões;
 
 # Para executar esse Projeto:
 
