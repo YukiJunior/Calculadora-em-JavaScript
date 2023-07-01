@@ -8,14 +8,20 @@
 # Métodos utilzados:
 
 - [x] Orientação Objeto;
+- [x] DOM;
 - [x] Variáveis Privadas;
 - [x] Construtores;
 - [x] Initialize;
 - [x] QuerySelector;
-- [x] Eventos;
+- [x] Eventos click;
+= [x] Data Hora;
 - [x] Elementos;
 - [x] Laços com ForEach;
 - [x] Botões;
+- [x] Split;
+- [x] Switch;
+- [x] IsNaN;
+- [x] Array e Length
 
 # Para executar esse Projeto:
 
