@@ -5,7 +5,7 @@
 
 ## Projeto está incompleto conforme minha evolução no treinamento, irei atualizando esse projeto;
 
-# Métodos utilzados:
+## Métodos utilzados:
 
 - [x] Orientação Objeto;
 - [x] DOM;
@@ -14,7 +14,7 @@
 - [x] Initialize;
 - [x] QuerySelector;
 - [x] Eventos click;
-= [x] Data Hora;
+- [x] Data Hora;
 - [x] Elementos;
 - [x] Laços com ForEach;
 - [x] Botões;
