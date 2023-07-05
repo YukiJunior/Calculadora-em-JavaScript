@@ -22,6 +22,13 @@
 - [x] Switch;
 - [x] IsNaN;
 - [x] Array e Length;
+- [x] Eval/Join;
+- [x] For;
+- [x] Push;
+- [x] Pop;
+- [x] If/Else If/Else;
+- [x] If ternário;
+
 
 # Para executar esse Projeto:
 
